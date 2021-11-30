@@ -1,0 +1,138 @@
+{
+    "car":[
+        {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m5_cs_g30.jpg",
+            "model": "BMW M5 CS",
+            "body": "Спортен Автомобил",
+            "year": 2021,
+            "fuel":"Бензин",
+            "mileage": 11766,
+            "price": 205580,
+            "horsepower": 625,
+            "volume": 4395,
+            "transmission": "Автоматик",
+            "description": "Мериносова кожа с разширени функции silverstone/black пакет competition свързан пакет professional задвижване на всички колела м спортна изпускателна система активна защита алармена система с....",
+            "descriptionHalf": "Мериносова кожа с разширени функции silverstone/black пакет competition свързан пакет ....."
+   
+           },
+        {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m5f10.jpg",
+            "model": "BMW M5 F10",
+            "body": "Спортен Автомобил",
+            "year": 2011,
+            "fuel":"Дизел",
+            "mileage": 124232,
+            "price": 95699,
+            "horsepower": 575,
+            "volume": 4395,
+            "transmission": "Автоматик",
+            "description": "Поръчков Автомобил който е много запазен да годините си, има леки външни забележки които са съобразени с цената на автомобила, колата е обслужена преди по малко от 5 хиляди километра.....",
+            "descriptionHalf": "Поръчков Автомобил който е много запазен да годините си, има леки външни забележки....."
+   
+           },
+        {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m5e60.jpg",
+         "model": "BMW M5 E60",
+         "body": "Спортен Автомобил",
+         "year": 2007,
+         "fuel":"Бензин",
+         "mileage": 72900,
+         "price":29500,
+         "horsepower": 507,
+         "volume": 4999,
+         "transmission": "Автоматик",
+         "description": "Много поддържан и гледан автомобил, на реални километри, който са доказуеми в оторизиран сервиз на БМВ, колата може да се погледне в сервиз по ваш избор, може лек коментар на цената.....",
+         "descriptionHalf": "Много поддържан и гледан автомобил, на реални километри, който са доказуеми....."
+        },
+        
+        {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m5f90.jpg",
+            "model": "BMW M5 F90",
+            "body": "Спортен Автомобил",
+            "year": 2019,
+            "fuel":"Бензин",
+            "mileage": 135600,
+            "price": 157000,
+            "horsepower": 625,
+            "volume": 4395,
+            "transmission": "Автоматик",
+            "description": "Застрахователна Гаранция до 10. 2022г. Цена без ддс, Navi Professional System, комфортен достъп, вакуум на вратите, M Carbon package, M Carbon Ceramic Brake, M Sports Exhaust System.....",
+            "descriptionHalf": "Застрахователна Гаранция до 10. 2022г. Цена без ддс, Navi Professional System, комфортен......"
+        },
+        {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/x5m_SUV.jpg",
+            "model": "BMW X5M Competition",
+            "body": "Спортен SUV",
+            "year": 2021,
+            "fuel":"Бензин",
+            "mileage": 190300,
+            "price": 245699,
+            "horsepower": 625,
+            "volume": 4395,
+            "transmission": "Автоматик",
+            "description": "8 степенна автоматична скоростна кутия ,BMW Laser Lights Адаптивни Лазерни Фарове, Distronic Система за спазване на дист. от предходен автомобил ,Keyless GO Система за безключово запалване ,Камера 360",
+            "descriptionHalf": "8 степенна автоматична скоростна кутия ,BMW Laser Lights Адаптивни Лазерни Фарове, Dis....."
+   
+           },
+           {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m3e92.jpg",
+            "model": "BMW M3 E92",
+            "body": "Спортен Автомобил",
+            "year": 2013,
+            "fuel":"Бензин",
+            "mileage": 184000,
+            "price": 86500,
+            "horsepower": 420,
+            "volume": 3999,
+            "transmission": "Автоматик",
+            "description": "Колата е напълно обслужена! Без забележки! Сменени с оригинални нови части: биелни лагери, спирачни дискове(предни) всички накладки, лагерина главини(предни) всички масла всички филтри.....",
+            "descriptionHalf": "Колата е напълно обслужена! Без забележки! Сменени с оригинални нови части: биелни лагери....."
+   
+           },
+            {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/X5MD.jpg",
+            "model": "BMW X5 M50d",
+            "body": "Спортен SUV",
+            "year": 2013,
+            "fuel":"Дизел",
+            "mileage": 211766,
+            "price": 98500,
+            "horsepower": 381,
+            "volume": 2993,
+            "transmission": "Автоматик",
+            "description": "Автоматичн а трансмисия - със Steptronic и Drivelogic (8 скорости и три степени на превключване) Арматурно табло, покрито с кожа M многофункционални седалки за водач и пътник отпред - с подгрев....",
+            "descriptionHalf": "Автоматичн а трансмисия - със Steptronic и Drivelogic (8 скорости и три степени на ....."
+   
+           },
+           {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/X7MD.jpg",
+            "model": "BMW X7 M50d",
+            "body": "Спортен SUV",
+            "year": 2018,
+            "fuel":"Дизел",
+            "mileage": 156343,
+            "price": 158500,
+            "horsepower": 400,
+            "volume": 2993,
+            "transmission": "Автоматик",
+            "description": "Grain Black with bronze effect, BMW Система за запис по време на шофиранe, BMW Night Vision Система за нощно виждане, Механични сенници за задните странични стъкла, Активно проветряване на предните....",
+            "descriptionHalf": "Grain Black with bronze effect, BMW Система за запис по време на шофиранe, BMW Night Vision....."
+   
+           },
+           {
+            "img_path":"https://cars-project.herokuapp.com/Style/Images/m550d.jpg",
+            "model": "BMW M550d",
+            "body": "Спортен Автомобил",
+            "year": 2016,
+            "fuel":"Дизел",
+            "mileage": 256343,
+            "price": 108500,
+            "horsepower": 400,
+            "volume": 2993,
+            "transmission": "Автоматик",
+            "description": "BMW 550D xDrive M-Paket; Пълен M-paket; Ел. комфортни предни седалки с памет, обдухване и подгрев; Подгрев на задните седалки; HEAD UP ДИСПЛЕЙ....",
+            "descriptionHalf": "BMW 550D xDrive M-Paket; Пълен M-paket; KEYLESS GO ; Ел. комфортни предни....."
+   
+           }
+]
+}
